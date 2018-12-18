@@ -1,2 +1,2 @@
 # biophotonics
-This is a project where I will try to write tools that facilitate Biophotonics data analysis and simulations.
+Some MATLAB scripts for calculating different models for light scattering. This was written as a partof BME51: Intro to Biomedical Optics at Tufts University.
